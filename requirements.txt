@@ -2,6 +2,5 @@ Flask
 Jinja2
 Werkzeug
 gunicorn
-json
 requests
 ast
